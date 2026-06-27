@@ -132,3 +132,10 @@ SVM Model Training
 Prediction
 Saving Trained Model
 
+##Model Preview
+
+Diabaetes Prediction -- ![Diabaetes Prediction](https://github.com/garvits-001/Multiple-Disease-Prediction-System-using-Machine-Learning/blob/main/Diabetes.jpg)
+Heart Disease Prediction -- ![Heart Disease Prediction](https://github.com/garvits-001/Multiple-Disease-Prediction-System-using-Machine-Learning/blob/main/Heart%20Disease.jpg)
+Parkinsons Prediction -- ![Parkinsons Prediction](https://github.com/garvits-001/Multiple-Disease-Prediction-System-using-Machine-Learning/blob/main/Parkinsons.jpg)
+
+
