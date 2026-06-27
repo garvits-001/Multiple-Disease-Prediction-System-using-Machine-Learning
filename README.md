@@ -47,38 +47,6 @@ Users simply enter the required medical values, and the application instantly pr
 
 ---
 
-# 📁 Project Structure
-
-```text
-Multiple-Disease-Prediction-System/
-│
-├── app.py
-├── README.md
-├── requirements.txt
-│
-├── Models/
-│   ├── diabetes_model.sav
-│   ├── heart_model.sav
-│   └── parkinsons_model.sav
-│
-├── Notebooks/
-│   ├── Diabetes Prediction.ipynb
-│   ├── heart disease prediction.ipynb
-│   └── Parksinson's predictor.ipynb
-│
-├── Dataset/
-│   ├── diabetes.csv
-│   ├── heart.csv
-│   └── parkinsons.csv
-│
-└── Images/
-    ├── diabetes.png
-    ├── heart.png
-    └── parkinsons.png
-```
-
----
-
 # 📊 Datasets
 
 The project uses publicly available healthcare datasets for training.
